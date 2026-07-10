@@ -165,4 +165,4 @@ Built by **Chinonso Anadumaka**, independent quantitative researcher and
 algorithmic trading developer.
 
 For questions, collaboration or access to the full methodology, reach out via 
-GitHub or LinkedIn.
+[GitHub](https://github.com/nolly282) or [Linkedin](https://www.linkedin.com/in/chinonso-anadumaka-8452ba1a6)
