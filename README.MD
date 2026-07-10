@@ -38,6 +38,7 @@ Update the repository structure to match what's actually there:
 
 ## What Is In This Repository?
 
+```
 trend-lens/
 ├── data/                         # Trade-level results for each instrument
 │   ├── BTCUSD_trades.xlsx
@@ -63,6 +64,7 @@ trend-lens/
 │   ├── rolling_winrate.png
 │   └── win_loss_distribution.png
 └── Trend_lens_analysis.ipynb     # Full analysis notebook
+```
 
 
 
